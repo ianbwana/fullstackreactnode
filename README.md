@@ -2,7 +2,7 @@
 
 
 ## Description
-Exodustest is a simple btc wallet that allows users to create an account, log in, link a bank account throuh plaid's sandbox api and purchase bitcoin on a regtest network hosted and configured on the user's computer. The app has a backend built using Node, Express and Postgres managed by [ElephantSQL](https://www.elephantsql.com/) and a mobile client built using React Native for Android.
+Exodustest is a simple btc wallet that allows users to create an account, log in, link a bank account through plaid's sandbox api and purchase bitcoin on a regtest network hosted and configured on the user's computer. The app has a backend built using Node, Express and Postgres managed by [ElephantSQL](https://www.elephantsql.com/) and a mobile client built using React Native for Android.
 
 #### Requirements
 1. [NodeJS](https://nodejs.org/en/)
@@ -39,4 +39,4 @@ A test apk can also be found [here](https://drive.google.com/file/d/1M-Gs6QEni-j
 
 A screen recording demonstrating the app use can be found [here](https://drive.google.com/file/d/1QvGWK5_WqYD-cXTUZ3RSBEdRbntJ45fu/view?usp=sharing).
 
-Happy testing
+
