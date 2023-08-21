@@ -16,12 +16,11 @@ app.use(express.urlencoded({ extended: true }));
 
 const db = require("./models/index");
 
-// db.sequelize.sync({force: true}).then(()=>{
-//     console.log("Drop and resync DB");
-// })
 
 db.sequelize.sync()
 
+
+//Manual documentation for endpoints
 app.get("/", (req, res) => {
     res.json({
       Intro:
