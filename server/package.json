@@ -7,16 +7,8 @@
     "test": "npm run test",
     "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ExodusMovementInterviews/Ian-Bwana.git"
-  },
   "author": "Ian Bwana",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ExodusMovementInterviews/Ian-Bwana/issues"
-  },
-  "homepage": "https://github.com/ExodusMovementInterviews/Ian-Bwana#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "bip32": "^3.0.1",
