@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "exercise server built with express",
+  "description": "Server built with express",
   "main": "server.js",
   "scripts": {
     "test": "npm run test",
