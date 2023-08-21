@@ -152,7 +152,7 @@ const Dashboard = ({ navigation }) => {
     };
     setLoading(true);
     setLoadingText("Initiating transaction...");
-    let url = `http://192.168.0.102:5000/api/buy_bitcoin`;
+    let url = `http://localhots:5000/api/buy_bitcoin`;
     axios({
       method: "post",
       url: url,
