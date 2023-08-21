@@ -34,6 +34,11 @@ You can then run
 react-native run-android 
 ```
 
+For ios, run 
+```bash
+react-native run-ios
+```
+
 A backend demo hosted on heroku can be found [here](https://exodustest.herokuapp.com/) where the landing page is a json response of all the endpoints and their data. 
 A test apk can also be found [here](https://drive.google.com/file/d/1M-Gs6QEni-j966Lp1i4uTHZFaIHZsFZ9/view?usp=sharing).
 
